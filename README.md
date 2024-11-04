@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
