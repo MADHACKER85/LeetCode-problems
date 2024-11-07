@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
