@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0135-candy) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
