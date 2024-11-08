@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Stack
 |  |
 | ------- |
