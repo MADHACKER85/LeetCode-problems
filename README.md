@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
