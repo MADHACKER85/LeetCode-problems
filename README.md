@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
