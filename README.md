@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0234-palindrome-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
