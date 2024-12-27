@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
@@ -159,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
