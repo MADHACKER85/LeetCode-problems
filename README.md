@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
+| [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
+| [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 <!---LeetCode Topics End-->
