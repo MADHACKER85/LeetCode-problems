@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
