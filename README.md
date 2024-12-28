@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0087-scramble-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
 ## Rolling Hash
 |  |
