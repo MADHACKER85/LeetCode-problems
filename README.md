@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
