@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
