@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MADHACKER85/LeetCode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MADHACKER85/LeetCode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
