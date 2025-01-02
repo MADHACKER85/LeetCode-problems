@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0233-number-of-digit-one) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0233-number-of-digit-one) |
 ## Simulation
 |  |
 | ------- |
