@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0141-linked-list-cycle) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0220-contains-duplicate-iii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
 ## Sliding Window
