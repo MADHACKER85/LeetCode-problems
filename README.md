@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0079-word-search) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0224-basic-calculator) |
