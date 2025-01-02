@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 ## Hash Table
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 ## Trie
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 ## Ordered Set
 |  |
 | ------- |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
