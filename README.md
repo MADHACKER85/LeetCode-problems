@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0037-sudoku-solver) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0792-binary-search) |
 ## Sorting
