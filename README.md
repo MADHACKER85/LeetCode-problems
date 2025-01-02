@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0391-perfect-rectangle) |
 | [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 ## Hash Table
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
