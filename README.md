@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
+| [0336-palindrome-pairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0336-palindrome-pairs) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MADHACKER85/LeetCode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0336-palindrome-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
