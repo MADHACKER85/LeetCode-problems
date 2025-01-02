@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0336-palindrome-pairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0336-palindrome-pairs) |
 | [0391-perfect-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0391-perfect-rectangle) |
+| [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
+| [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
