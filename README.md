@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0087-scramble-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0079-word-search) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0141-linked-list-cycle) |
