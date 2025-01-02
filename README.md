@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0336-palindrome-pairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0336-palindrome-pairs) |
+| [0391-perfect-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0391-perfect-rectangle) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 ## Hash Table
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0391-perfect-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
