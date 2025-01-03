@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0087-scramble-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0233-number-of-digit-one) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
