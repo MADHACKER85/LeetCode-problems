@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0115-distinct-subsequences) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0233-number-of-digit-one) |
 ## Simulation
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
