@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/MADHACKER85/LeetCode-problems/tree/master/1036-rotting-oranges) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2386-min-max-game) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/MADHACKER85/LeetCode-problems/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/MADHACKER85/LeetCode-problems/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
