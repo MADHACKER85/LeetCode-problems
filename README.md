@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0336-palindrome-pairs) |
 | [0391-perfect-rectangle](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0391-perfect-rectangle) |
 | [0695-max-area-of-island](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
 | [2048-build-array-from-permutation](https://github.com/MADHACKER85/LeetCode-problems/tree/master/2048-build-array-from-permutation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0233-number-of-digit-one) |
+| [0747-min-cost-climbing-stairs](https://github.com/MADHACKER85/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
